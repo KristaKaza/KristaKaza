@@ -1,28 +1,23 @@
-### Hi there, I'm Krista 👋
+### Hi there 👋, my name is Krista
+#### I am Front-end Developer student.
 
-Welcome to my profile! Here are a few things about me 😃
-
-
-- 🔭 I’m currently studying Front-End Development at 📍 Noroff University
-- 📖 I’m currently learning JavaScript 
-- 👯 I’m looking to start an internship and learn from experts!
-- 👩‍💻 Read more about my projects at 
-- 🥅 2024 Goals: Learn more coding 😁
-- 🔗  Connect with me!
+I'm Krista from Greece, now living in Oslo, Norway, a frontend developer student at Noroff University.
+I really enjoy learning new languages, currently improving my JavaScript coding and enhancing my design skills on Figma.
 
 
+Skills: JS / HTML / CSS
 
-### Skills
-- HTML5
-- CSS!
-- JavaScript
-- WordPress
-- Figma
+- 🔭 I’m currently working on my portfolio. 
+- 🌱 I’m currently learning JavaScript 
+- 🤔 I’m looking for help with finding an internship as a frontend developer. 
+- 📫 How to reach me: kristakaz@hotmail.com 
+- ⚡ Fun fact: I really enjoy making ceramics! 
 
-### Work Experience
+🔗  Connect with me!
 
-Front-End Developer 
-Video For Alle 
-Languages & Technologies: HTML5, CSS, JavaScript
-June 2023 - September 2023
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KristaKaza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/krista-kaza-870326235/)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=KristaKaza)  
+
+
 
