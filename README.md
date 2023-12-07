@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Krista
 #### I am Front-end Developer student.
+![I am Front-end Developer student.](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 I'm Krista from Greece, now living in Oslo, Norway, a frontend developer student at Noroff University.
 I really enjoy learning new languages, currently improving my JavaScript coding and enhancing my design skills on Figma.
