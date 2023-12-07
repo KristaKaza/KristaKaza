@@ -7,6 +7,7 @@ I really enjoy learning new languages, currently improving my JavaScript coding 
 
 Skills: JS / HTML / CSS
 
+
 - 🔭 I’m currently working on my portfolio. 
 - 🌱 I’m currently learning JavaScript 
 - 🤔 I’m looking for help with finding an internship as a frontend developer. 
