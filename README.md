@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Krista 👋
 
-<!--
-**KristaKaza/KristaKaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! Here are a few things about me 😃
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying Front-End Development at 📍 Noroff University
+- 📖 I’m currently learning JavaScript 
+- 👯 I’m looking to start an internship and learn from experts!
+- 👩‍💻 Read more about my projects at 
+- 🥅 2024 Goals: Learn more coding 😁
+- 🔗  Connect with me!
+
+
+
+### Skills
+- HTML5
+- CSS!
+- JavaScript
+- WordPress
+- Figma
+
+### Work Experience
+
+Front-End Developer 
+Video For Alle 
+Languages & Technologies: HTML5, CSS, JavaScript
+June 2023 - September 2023
+
